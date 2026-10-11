@@ -1,0 +1,12 @@
+		{
+			id = "welcome",
+			kind = "motd",
+			section = "MESSAGE OF THE DAY",
+			title = "WELCOME TO MWIII",
+			shortTitle = "MEW MEW MEW",
+			date = "OCTOBER 11, 2026",
+			image = "jup_ui_menu_keyart_br_zonecontrol_rebirth_quads_layer_00",
+			body = [[Welcome to the MEW hub.    
+             MEWMEWMEWMEW 
+             The news and patch notes can be updated from your optional JSON feed.]]
+		}
