@@ -1,34 +1,30 @@
 {
-  "messages": [
-    {
-      "title": "Welcome to NovaSix",
-      "content_short": "just testing the new crm feature",
-      "content_long": "test.",
-      "image": "mw_motd_spetsnaz_operators_1680x700",
-      "popup_image": "mw_motd_spetsnaz_operators_1680x700",
-      "layout_type": 0
-    },
-    {
-      "title": "Clan tags",
-      "content_short": "custom clantags works now",
-      "content_long": "type <clantag> in the console to set it.",
-      "image": "mw_motd_season1_keyart_tu_delta"
-    }
-  ],
-  "patch_notes": [
-    {
-      "title": "NovaSix 1.0 bla bla",
-      "summary": "bla bla bla bla",
-      "sections": [
-        {
-          "title": "Clan tags",
-          "body": "bla bla blao."
-        },
-        {
-          "title": "CRM",
-          "body": "Obla bla bla"
-        }
-      ]
-    }
-  ]
+	"messages": [
+		{
+			"title": "Welcome to NovaSix",
+			"content_short": "Check ^2novasix.org^7 or Discord for the latest news and updates.",
+			"content_long": "After 2 months of development, IW8 NovaSix is finally here!",
+			"image": "mw_featured_spetsnaz_operators_1680x700",
+			"popup_image": "mw_featured_spetsnaz_operators_432x220",
+			"layout_type": 0
+		},
+		{
+			"title": "Clan tags",
+			"content_short": "Clan tags coloridas: ^2iw8x^7, ^3n6^7, ^6$N2^7, ^1lumen^7",
+			"content_long": "No console: clantag <tag>, clantag_list, clantag clear.",
+			"image": "mw_motd_generic_01_1680x700",
+			"popup_image": "mw_motd_generic_01_1680x700",
+			"layout_type": 0
+		}
+	],
+	"patch_notes": [
+		{
+			"title": "NovaSix 1.0 - XX/11/2026",
+			"summary": "asdasdasdas",
+			"sections": [
+				{ "title": "Idk", "body": "asdasdsadsa" },
+				{ "title": "Idk", "body": "Oasdasdasdas." }
+			]
+		}
+	]
 }
