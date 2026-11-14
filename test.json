@@ -12,7 +12,7 @@
 			"title": "Clan tags",
 			"content_short": "custom clantags works now",
 			"content_long": "type <clantag> in the console to set it.",
-			"Image": "mw_motd_season1_keyart_tu_delta"
+			"image": "mw_motd_season1_keyart_tu_delta"
 		}
 	],
 	"patch_notes": [
