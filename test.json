@@ -1,28 +1,34 @@
 {
-	"messages": [
-		{
-			"title": "Welcome to NovaSix",
-			"content_short": "just testing the new crm feature",
-			"content_long": "test.",
-			"image": "mw_motd_spetsnaz_operators_1680x700",
-			"popup_image": "mw_motd_spetsnaz_operators_1680x700",
-			"layout_type": 0
-		},
-		{
-			"title": "Clan tags",
-			"content_short": "custom clantags works now",
-			"content_long": "type <clantag> in the console to set it.",
-			"image": "mw_motd_season1_keyart_tu_delta"
-		}
-	],
-	"patch_notes": [
-		{
-			"title": "NovaSix 1.0 bla bla",
-			"summary": "bla bla bla bla",
-			"sections": [
-				{ "title": "Clan tags", "body": "bla bla blao." },
-				{ "title": "CRM", "body": "Obla bla bla" }
-			]
-		}
-	]
+  "messages": [
+    {
+      "title": "Welcome to NovaSix",
+      "content_short": "just testing the new crm feature",
+      "content_long": "test.",
+      "image": "mw_motd_spetsnaz_operators_1680x700",
+      "popup_image": "mw_motd_spetsnaz_operators_1680x700",
+      "layout_type": 0
+    },
+    {
+      "title": "Clan tags",
+      "content_short": "custom clantags works now",
+      "content_long": "type <clantag> in the console to set it.",
+      "image": "mw_motd_season1_keyart_tu_delta"
+    }
+  ],
+  "patch_notes": [
+    {
+      "title": "NovaSix 1.0 bla bla",
+      "summary": "bla bla bla bla",
+      "sections": [
+        {
+          "title": "Clan tags",
+          "body": "bla bla blao."
+        },
+        {
+          "title": "CRM",
+          "body": "Obla bla bla"
+        }
+      ]
+    }
+  ]
 }
