@@ -1,12 +1,27 @@
+{
+	"messages": [
 		{
-			id = "welcome",
-			kind = "motd",
-			section = "MESSAGE OF THE DAY",
-			title = "WELCOME TO MWIII",
-			shortTitle = "MEW MEW MEW",
-			date = "OCTOBER 11, 2026",
-			image = "jup_ui_menu_keyart_br_zonecontrol_rebirth_quads_layer_00",
-			body = [[Welcome to the MEW hub.    
-             MEWMEWMEWMEW 
-             The news and patch notes can be updated from your optional JSON feed.]]
+			"title": "Welcome to NovaSix",
+			"content_short": "just testing the new crm feature",
+			"content_long": "test.",
+			"image": "mw_motd_spetsnaz_operators_1680x700",
+			"popup_image": "mw_motd_spetsnaz_operators_1680x700",
+			"layout_type": 0
+		},
+		{
+			"title": "Clan tags",
+			"content_short": "custom clantags works now",
+			"content_long": "type <clantag> in the console to set it."
 		}
+	],
+	"patch_notes": [
+		{
+			"title": "NovaSix 1.0 bla bla",
+			"summary": "bla bla bla bla",
+			"sections": [
+				{ "title": "Clan tags", "body": "bla bla blao." },
+				{ "title": "CRM", "body": "Obla bla bla" }
+			]
+		}
+	]
+}
